@@ -1,6 +1,4 @@
 
-//Multiply two matrices program in java
-import java.util.Scanner;
 
 // Driver Class
 public class MultiplyTwoMatrix {
